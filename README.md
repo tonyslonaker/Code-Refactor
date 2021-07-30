@@ -10,9 +10,8 @@ Completed Tasks:
 * added comments to CSS code 
 * title was added
 
-Link: deployed website
+Link: deployed website & code respository
 * https://tonyslonaker.github.io/Code-Refactor/
-Link: code repository
 * https://github.com/tonyslonaker/Code-Refactor
 
 Image: Optimized for traditional desktop browser. Not yet optimized for responsiveness. (smaller screens).
