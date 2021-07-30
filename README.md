@@ -2,7 +2,7 @@
 
 This project is a code refactor for the Horiseon website. It's re-factoring purpose is to make the code more efficient, accessible and comprehensible. The refactor will also help with search engine optimization. Modification of code will not affect or change the current displayed styling. 
 
-Completed Tasks:
+## Completed Tasks:
 * consolidated classes that were redundant
 * added semantic HTML elements
 * images were enhanced with "alt" text
@@ -10,11 +10,11 @@ Completed Tasks:
 * added comments to CSS code 
 * title was added
 
-Link: deployed website & code respository
+## Link: deployed website & code respository
 * https://tonyslonaker.github.io/Code-Refactor/
 * https://github.com/tonyslonaker/Code-Refactor
 
-Image: Optimized for traditional desktop browser. Not yet optimized for responsiveness. (smaller screens).
+## Image: Optimized for traditional desktop browser. Not yet optimized for responsiveness. (smaller screens).
 
 ![Horiseon Img](https://github.com/tonyslonaker/Code-Refactor/blob/main/assets/images/Horiseon%207_30_2021%20screenshot.png?raw=true)
 
