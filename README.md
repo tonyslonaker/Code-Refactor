@@ -18,4 +18,4 @@ Image: Optimized for traditional desktop browser. Not yet optimized for responsi
 
 [Code-Refactor](/Users/tony/Desktop/projects/Code-Refactor/assets/images/Horiseon 7_30_2021 screenshot.png)
 
-![alt text](https://tonyslonaker.github.io/Code-Refactor/assets/images/Horiseon 7_30_2021 screenshot.png)
+![alt text](https://tonyslonaker.github.io/Code-Refactor/assets/images/Horiseon7_30_2021screenshot.png)
