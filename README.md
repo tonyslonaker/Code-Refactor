@@ -18,4 +18,5 @@ This project is a code refactor for the Horiseon website. It's re-factoring purp
 
 ![Horiseon Img](https://github.com/tonyslonaker/Code-Refactor/blob/main/assets/images/Horiseon%207_30_2021%20screenshot.png?raw=true)
 
-
+## Contribution
+Made with ❤️ by Tony Slonaker
