@@ -16,9 +16,6 @@ Link: deployed website & code respository
 
 Image: Optimized for traditional desktop browser. Not yet optimized for responsiveness. (smaller screens).
 
-[Code-Refactor](/Users/tony/Desktop/projects/Code-Refactor/assets/images/Horiseon 7_30_2021 screenshot.png)
-
 ![Horiseon Img](https://github.com/tonyslonaker/Code-Refactor/blob/main/assets/images/Horiseon%207_30_2021%20screenshot.png?raw=true)
 
-[<img src="https://github.com/tonyslonaker/Code-Refactor/blob/main/assets/images/Horiseon%207_30_2021%20screenshot.png?raw=true>]
 
